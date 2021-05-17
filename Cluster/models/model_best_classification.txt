@@ -1,0 +1,44 @@
+
+Accuracy Naive Bayes with best parameters:0.7672520405639377
+Classification Naive Bayes with best parameters:
+              precision    recall  f1-score   support
+
+           0       0.71      0.54      0.62      1393
+           1       0.79      0.89      0.83      2650
+
+    accuracy                           0.77      4043
+   macro avg       0.75      0.71      0.72      4043
+weighted avg       0.76      0.77      0.76      4043
+
+Accuracy SVM with best parameters: 0.8229037843185754
+Classification SVM with best parameters:
+              precision    recall  f1-score   support
+
+           0       0.71      0.83      0.76      1393
+           1       0.90      0.82      0.86      2650
+
+    accuracy                           0.82      4043
+   macro avg       0.80      0.83      0.81      4043
+weighted avg       0.84      0.82      0.83      4043
+
+Accuracy K-nn with best parameters: 0.8011377689834281
+Classification K-nn with best parameters:
+              precision    recall  f1-score   support
+
+           0       0.75      0.63      0.69      1393
+           1       0.82      0.89      0.85      2650
+
+    accuracy                           0.80      4043
+   macro avg       0.79      0.76      0.77      4043
+weighted avg       0.80      0.80      0.80      4043
+
+Accuracy NN with best parameters: 0.7981696759831808
+Classification NN with best parameters:
+              precision    recall  f1-score   support
+
+           0       0.70      0.71      0.71      1393
+           1       0.85      0.84      0.85      2650
+
+    accuracy                           0.80      4043
+   macro avg       0.78      0.78      0.78      4043
+weighted avg       0.80      0.80      0.80      4043
